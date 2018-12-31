@@ -1,0 +1,40 @@
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+  }
+
+#content {
+  margin: auto;
+}
+
+label {
+  margin-right: 10px;
+}
+
+i.fa-long-arrow-up {
+  color: green;
+  font-size: 20px;
+}
+
+i.fa-long-arrow-down {
+  color: red;
+  font-size: 20px;
+}
+
+table {
+  border: 1px solid;
+  border-spacing: 0px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 0px solid;
+  padding: 5px 5px;
+}
+
+th {
+  font-size: small;
+  background-color: lightgray;
+}
