@@ -14,6 +14,7 @@ export class AppComponent {
 
   data: number[] = [];
   snapshot: number[][] = [];
+  reference: number;
 
   constructor(private socketService: SocketService, private dataService: DataService) {
     // cron job to be executed after 30 seconds
